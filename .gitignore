@@ -1,0 +1,5 @@
+originals/
+*.HEIC
+*.heic
+Thumbs.db
+.DS_Store
